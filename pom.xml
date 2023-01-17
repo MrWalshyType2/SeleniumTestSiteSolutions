@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.qa</groupId>
 	<artifactId>selenium_4_sol_java</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>Selenium 4 - Exercise solutions</name>
 	<description>Exercise solutions for Selenium 4 (Java)</description>
 
